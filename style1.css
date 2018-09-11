@@ -1,0 +1,30 @@
+.col-lg-3{
+	background-color: red;
+}
+.col-lg-5{
+	background-color: purple;
+}
+.col-lg-2{
+	background-color: green;
+}
+.col-lg-6{
+	background-color: rgb(100,100,100);
+}
+.col-lg-1{
+	background-color: blue;
+}
+.col-lg-7{
+	background-color: rgb(153,76,0);
+}
+.col-lg-8{
+	background-color: rgb(153,50,0);
+}
+.col-lg-10{
+	background-color: rgb(50,76,50);
+}
+.col-lg-4{
+	background-color: rgb(20,200,50);
+}
+.equal-height {
+    height:120px;
+}
